@@ -1,0 +1,8 @@
+<html>
+	<head>
+		<center> <h1> Alquiler De Cuadratrack </h1> </center>
+	</head>
+		<body>
+			<h1>HOLA MUNDO</h1>
+		</body>
+</html>
