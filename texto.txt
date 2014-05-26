@@ -1,0 +1,6 @@
+tocar README.md
+git init
+git add README.md
+git commit-m "primero comprometerse"
+git remote add origin https://github.com/Jvargas51h5/cosa.git 
+git push -u origin master
